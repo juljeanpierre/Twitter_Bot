@@ -12,3 +12,14 @@ Tasks
 * Install the tweepy module.
 * Replace values "your_consumer_key", "your_consumer_key_secret" "your_access_token", "your_access_token_secret" with your cridentials.
 * Run :)
+
+
+# Additional Modules:
+
+
+* _future _
+
+The __future__ module lets you import functionality from future versions of Python. Read More: [https://docs.python.org/2/library/__future__.html]
+* emoji
+
+Emoji for Python. Because Emoji's are Cool. Read more: [https://pypi.org/project/emoji/]
