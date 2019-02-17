@@ -13,8 +13,8 @@ print("=" * 20, "\033[1;36mSee What's New on TWITTER\033[1;m", "=" * 20)
 print("=" * 67)
 
 # Authenticate against Twitter
-auth = tweepy.OAuthHandler("v3s0wUaJbJmpRSHwiowrXOJdN", "uiH1BgmdKDucjWz11R77Q9WDfYXVD3skBbEVsbg8iWRH9I5yvG")
-auth.set_access_token("201708450-3Y2VSvzQO80k3z3f9k9dfWAgW6nRasuuvPzQX3e4", "8MZG3xxjSUITmnLDy09Y7hdTar8JwmLOyRs0Z7kk8fR3O")
+auth = tweepy.OAuthHandler("your_consumer_key", "your_consumer_key_secret")
+auth.set_access_token("your_access_token", "your_access_token_secret")
 
 api = tweepy.API(auth)
 
