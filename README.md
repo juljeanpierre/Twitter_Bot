@@ -10,5 +10,5 @@ Pleas note you will have to provide motivation to Twitter in order to use there 
 Tasks
 * Create a new Twitter application
 * Install the tweepy module.
-* Replace values "your_consumer_key", "your_consumer_key_secret" "your_access_token", "your_access_token_secret" with your cridentials".
+* Replace values "your_consumer_key", "your_consumer_key_secret" "your_access_token", "your_access_token_secret" with your cridentials.
 * Run :)
