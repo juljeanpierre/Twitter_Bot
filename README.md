@@ -1,7 +1,7 @@
 # Twitterbot
 A Twitter application using the "tweepy" Python library to automate reading and sending tweets.
 
-![](/img.jpg)
+![](img.png)
 
 To use the Twitter API the bot needs to authenticate against Twitter. For that, tweepy uses the OAuth authentication standard.
 You can get credentials by creating a new application at https://apps.twitter.com/.

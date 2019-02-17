@@ -9,7 +9,7 @@ import tweepy
 from emoji import emojize
 
 
-print("=" * 20, "\033[1;36mSee What's New on TWITTER\033[1;m", "=" * 20)
+print("=" * 20, "\033[1;36mSee What's new on TWITTER\033[1;m", "=" * 20)
 print("=" * 67)
 
 # Authenticate against Twitter
