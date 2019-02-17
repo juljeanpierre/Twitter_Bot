@@ -1,7 +1,7 @@
 """
 This program calls the home_timeline API method to retrieve the 20 most recent tweets from your timeline.
 
-Helpfull link: http://docs.tweepy.org/en/v3.5.0/api.html#id1
+Helpfull Link: http://docs.tweepy.org/en/v3.5.0/api.html#id1
 
 """
 from __future__ import print_function
